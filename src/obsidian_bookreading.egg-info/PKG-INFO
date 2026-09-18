@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: obsidian-bookreading
+Version: 0.1.0
+Summary: AI tools for the Obsidian Bookreading knowledge base
+Requires-Python: >=3.13

@@ -1,0 +1,8 @@
+pyproject.toml
+src/obsidian_bookreading/__init__.py
+src/obsidian_bookreading/vault.py
+src/obsidian_bookreading.egg-info/PKG-INFO
+src/obsidian_bookreading.egg-info/SOURCES.txt
+src/obsidian_bookreading.egg-info/dependency_links.txt
+src/obsidian_bookreading.egg-info/top_level.txt
+tests/test_vault.py
